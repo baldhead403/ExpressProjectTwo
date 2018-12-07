@@ -1,0 +1,50 @@
+body{
+    background-image: url(globe.jpg);
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+}
+
+
+
+nav{
+    background-color: lightgreen;
+    box-shadow: 2px 2px 20px inset black;
+    font-size: 22px;
+    color: white;
+    
+}
+
+
+.jumbotron{
+    display: inline-flex;
+    background-color: blue;
+    color: white;
+    height: 30%; 
+    width: 100%;
+    text-align: center;
+   justify-content: center;
+   box-shadow: -2px -2px 20px inset black;
+   
+   
+}
+h1{
+    font-size: 60px;
+    
+}
+img{
+    height: 70px;
+    width: 70px;
+    
+}
+
+.mapContainer{
+    height: 500px;
+}
+#map{
+    width: 480px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+    border: 2px  solid black;
+
+}

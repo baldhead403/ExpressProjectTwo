@@ -1,0 +1,3 @@
+const googleApiKey ='AIzaSyBBwvlMqSJbjHImLmfc9bzIFmj__4cQsKE'
+const urlShortnerApiKey ="AIzaSyAoiPQ8C4LPXjjBrAuk_U5Bmt1Viy7xKqs"
+const youtubeApiKey ="AIzaSyAoiPQ8C4LPXjjBrAuk_U5Bmt1Viy7xKqs"
